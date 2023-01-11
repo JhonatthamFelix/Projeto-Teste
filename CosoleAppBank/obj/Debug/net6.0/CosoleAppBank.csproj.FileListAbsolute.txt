@@ -1,0 +1,5 @@
+C:\Users\JonatthamF\Documents\Jonattham\Study\ChsarpFredi\CosoleAppBank\CosoleAppBank\obj\Debug\net6.0\CosoleAppBank.csproj.AssemblyReference.cache
+C:\Users\JonatthamF\Documents\Jonattham\Study\ChsarpFredi\CosoleAppBank\CosoleAppBank\obj\Debug\net6.0\CosoleAppBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JonatthamF\Documents\Jonattham\Study\ChsarpFredi\CosoleAppBank\CosoleAppBank\obj\Debug\net6.0\CosoleAppBank.AssemblyInfoInputs.cache
+C:\Users\JonatthamF\Documents\Jonattham\Study\ChsarpFredi\CosoleAppBank\CosoleAppBank\obj\Debug\net6.0\CosoleAppBank.AssemblyInfo.cs
+C:\Users\JonatthamF\Documents\Jonattham\Study\ChsarpFredi\CosoleAppBank\CosoleAppBank\obj\Debug\net6.0\CosoleAppBank.csproj.CoreCompileInputs.cache
