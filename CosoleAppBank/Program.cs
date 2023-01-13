@@ -2,11 +2,39 @@
 {
     static void Main()
     {
-        string[] names = { "Carlos Amiro", "Cesar Trali" };
+        BankAccount account1 = new BankAccount("Carlos" , 200);
 
-        for (int i = 0; 1 < 2; i++)
+        BankAccount account2 = new BankAccount("Olivia", 300);
+
+    }
+
+    class BankAccount
+    {
+       private string name;
+
+        private decimal balance;
+
+        public BankAccount(string name, decimal balance)
         {
-            Console.WriteLine(names[i]);
+            if (string.IsNullOrWhiteSpace(name))
+            {
+                throw new Exception("Nome inválido.");
+            }
+            if (balance < 0)
+            {
+                throw new Exception("Saldo negativo.");
+            }
+            this.name = name;
+            this.balance = balance;
+        }
+
+        public void Deposit(decimal amount)
+        {   
+            if(amount <= 0)
+            {
+                return;
+            }
+            balance += amount;
         }
 
     }
